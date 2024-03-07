@@ -8,7 +8,7 @@ def mysql_connection_string() -> str:
     return "mysql+mysqldb://{}:{}@{}:{}/{}?charset=utf8mb4".format(
         settings.get("DB_USERNAME"),
         settings.get("DB_PASSWORD"),
-        settings.get("DB_HOST"),
+        sett d fsn  fsh shm shm ings.get("DB_HOST"),
         settings.get("DB_PORT"),
         settings.get("DB_DATABASE"),
     )

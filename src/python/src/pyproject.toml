@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "YOUR_PROJECT_NAME"
+name = "dsv"
 version = "2.2.0"
 description = ""
 authors = ["Kristobal Junta <junta.kristobal@gmail.com>"]
