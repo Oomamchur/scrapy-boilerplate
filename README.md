@@ -99,3 +99,4 @@ This boilerplate offers a more intuitive alternative to Scrapy's default project
 - All scrapy classes (by default located in `items.py, middlewares.py, pipelines.py`) are converted to sub-modules, where each class is placed in its own separate file. Nothing else goes into those files. Helper functions/modules can be placed in the `helpers` module.
 - Configs in `scrapy.cfg` and `settings.py` are edited to correspond with these changes.
 - Additional subdirectories are added to contain code, related to working with database (`src/database`), RabbitMQ (`src/rabbitmq`), and also the accessory directory `src/_templates`, that contains templates for code generation (see ["new" command](#code-generation))
+# testing-repo
